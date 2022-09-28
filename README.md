@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Luiz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LuizPelegrini&show_icons=true&hide_border=true" />
+</details>
+
 <!--
 **LuizPelegrini/LuizPelegrini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,15 @@
 ### Hello there, I'm Luiz 👋
 
+I'm a Fullstack Developer, working in Kuala Lumpur, Malaysia.
+
+<br />
+
+- 🌱 I’m currently learning **Serverless architecture**
+- 👯 I’m looking to collaborate on open source/commercial projects
+- 💬 Ask me about **Web Development**
+
+---
+
 ### Languages and Tools
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
@@ -35,22 +45,21 @@
 <br />
 
 ### Let's connect!
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.13.0/icons/linkedin.svg" />][linkedin]
+[![Linkedin: Luiz](https://img.shields.io/badge/-Luiz%20Pelegrini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghazi-khan/)](linkedin)
+[![GitHub Luiz](https://img.shields.io/github/followers/LuizPelegrini?label=follow&style=social)](github)
 
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Luiz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LuizPelegrini&show_icons=true&hide_border=true" />
-</details>
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
-  <img align="left" alt="Luiz's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPelegrini" />
-</details>
+### Stats
+[![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizPelegrini&show_icons=true&hide_border=true&theme=dark)](https://github.com/LuizPelegrini/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPelegrini&layout=compact&theme=dark)](https://github.com/LuizPelegrini/github-readme-stats)
+
+
 
 [linkedin]: https://www.linkedin.com/in/luiz-pelegrini
+[github]: https://github.com/LuizPelegrini
 
 <!--
 **LuizPelegrini/LuizPelegrini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

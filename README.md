@@ -48,7 +48,7 @@ I'm a Fullstack Developer, working in Kuala Lumpur, Malaysia.
 <br />
 
 [![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizPelegrini&show_icons=true&hide_border=true&theme=dark)](https://github.com/LuizPelegrini/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPelegrini&layout=compact&theme=dark)](https://github.com/LuizPelegrini/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizPelegrini&layout=compact&theme=dark&hide_border=true)](https://github.com/LuizPelegrini/github-readme-stats)
 
 ---
 

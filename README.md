@@ -11,7 +11,6 @@ I'm a Fullstack Developer, working in Kuala Lumpur, Malaysia.
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about **Web Development**
 
----
 
 ### Let's connect!
 [![Linkedin: Luiz](https://img.shields.io/badge/-Luiz%20Pelegrini-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-pelegrini/)][linkedin]

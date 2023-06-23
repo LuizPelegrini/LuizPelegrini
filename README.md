@@ -6,7 +6,7 @@ I'm a Fullstack Developer, working in Kuala Lumpur, Malaysia.
 <br />
 <br />
 
-- 🧑‍💻 I’m currently working as **Fullstack Engineer @ BFM 89.9**
+- 🧑‍💻 I’m currently working as **Fullstack Engineer @ StashAway**
 - 🌱 I’m currently learning **Serverless architecture**
 - 👯 I’m looking to collaborate on open source/commercial projects
 - 💬 Ask me about **Web Development**
